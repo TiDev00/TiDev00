@@ -18,5 +18,5 @@ AI Specialist and Software Engineer with a passion for developing innovative sol
 </p>
 
 <div>
-  <a href="http://www.github.com/TiDev00"><img src="https://github-readme-stats.vercel.app/api?username=TiDev00&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="TiDev00's GitHub stats" /></a>                 <a href="https://github.com/TiDev00" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiDev00&hide_border=true&theme=radical&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="http://www.github.com/TiDev00"><img src="https://github-readme-stats.vercel.app/api?username=TiDev00&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Stats" /></a>                 <a href="https://github.com/TiDev00" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiDev00&hide_border=true&theme=radical&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
