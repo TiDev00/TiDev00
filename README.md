@@ -80,6 +80,6 @@ AI Specialist and Software Engineer with a passion for developing innovative sol
 
 # 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tidev00&show_icons=true&custom_title=Top%20%Languages&theme=radical&locale=en&layout=compact" alt="Most used languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tidev00&show_icons=true&custom_title=Top%20%Languages&hide_border=true&theme=radical&locale=en&layout=compact" alt="Most used languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tidev00&show_icons=true&custom_title=Stats&theme=radical&locale=en" alt="Github Stats" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tidev00&show_icons=true&hide_border=true&custom_title=Stats&theme=radical&locale=en" alt="Github Stats" /></p> 
