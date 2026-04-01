@@ -15,12 +15,12 @@ AI Specialist and Software Engineer with a passion for developing innovative sol
 # 👥 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/tidev00" target="blank" title="Linkedin"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tidev00" height="30" width="40" /></a>
-<a href="https://kaggle.com/tidev00" target="blank" title="Kaggle"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tidev00" height="30" width="40" /></a>
-<a href="https://codesandbox.io/tidev00" target="blank" title="CodeSandbox"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="tidev00" height="30" width="40" /></a>
-<a href="https://twitter.com/tidev00" target="blank" title="Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tidev00" height="30" width="40" /></a>
-<a href="https://hackerrank.com/tidev00" target="blank" title="HackerRank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tidev00" height="30" width="40" /></a>
-<a href="https://leetcode.com/tidev00" target="blank" title="LeetCode"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tidev00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tidev00" target="blank" title="Linkedin"><img align="center" src="https://github.com/TiDev00/github-profile-readme-generator/blob/main/src/images/icons/Social/linked-in-alt.svg" alt="tidev00" height="30" width="40" /></a>
+<a href="https://kaggle.com/tidev00" target="blank" title="Kaggle"><img align="center" src="https://github.com/TiDev00/github-profile-readme-generator/blob/main/src/images/icons/Social/kaggle.svg" alt="tidev00" height="30" width="40" /></a>
+<a href="https://codesandbox.io/tidev00" target="blank" title="CodeSandbox"><img align="center" src="https://github.com/TiDev00/github-profile-readme-generator/blob/main/src/images/icons/Social/codesandbox.svg" alt="tidev00" height="30" width="40" /></a>
+<a href="https://twitter.com/tidev00" target="blank" title="Twitter"><img align="center" src="https://github.com/TiDev00/github-profile-readme-generator/blob/main/src/images/icons/Social/twitter.svg" alt="tidev00" height="30" width="40" /></a>
+<a href="https://hackerrank.com/tidev00" target="blank" title="HackerRank"><img align="center" src="https://github.com/TiDev00/github-profile-readme-generator/blob/main/src/images/icons/Social/hackerrank.svg" alt="tidev00" height="30" width="40" /></a>
+<a href="https://leetcode.com/tidev00" target="blank" title="LeetCode"><img align="center" src="https://github.com/TiDev00/github-profile-readme-generator/blob/main/src/images/icons/Social/leet-code.svg" alt="tidev00" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack
