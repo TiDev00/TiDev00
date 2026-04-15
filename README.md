@@ -8,7 +8,7 @@ Software Engineer / AI Specialist
 
 AI Specialist and Software Engineer with a passion for developing innovative solutions. Eager to collaborate on challenging projects and contribute to open-source communities.
 
-* 🖥️  See my portfolio at [tidev00.github.io/Portfolio/#/](http://tidev00.github.io/Portfolio/#/)
+* 🖥️  See my portfolio at [tidev00-portfolio.vercel.app](tidev00-portfolio.vercel.app)
 * 🚀  I'm currently working on a forex trading bot
 * 🧠  I'm learning Cloud Services, LLM, MLOps
 
